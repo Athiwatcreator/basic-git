@@ -96,7 +96,7 @@ git config --global init.defaultBranch main
 
 # ตรวจสอบหลังตั้งค่า
 git config --list
-git config --list --show-origin
+
 ```
 > Git มีการตั้งค่าได้ 3 ระดับ ซึ่งจะถูกอ่านเรียงต่อกันตามลำดับ
 > 1. System: การตั้งค่าสำหรับทุก User บนเครื่องคอมพิวเตอร์นี้
